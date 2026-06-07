@@ -11,7 +11,7 @@ A data analytics project that analyzes customer purchasing behavior using SQL, P
 - Data cleaning and preprocessing in Python
 - SQL based business queries for insights
 # Technologies Used
-Python(Pandas)
-SQL
-Power BI
-Data Visualization
+- Python(Pandas)
+- SQL
+- Power BI
+- Data Visualization
